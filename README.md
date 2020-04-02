@@ -1,5 +1,5 @@
 # contract-work
-This is a repo that captures all of the front-end work I have done throughout my contract at CoverMyMeds.
+This repo captures a summary of the front-end work I have done throughout my contract at CoverMyMeds.
 
 I was contracted by CoverMyMeds to assist in redeveloping their website, www.covermymeds.com. I worked alongside the Creative Technologist to capture the new design in web development. We utilized ITCSS, CSS Grid, Ruby on Rails, ERB, HAML, Vue, and React. 
 
